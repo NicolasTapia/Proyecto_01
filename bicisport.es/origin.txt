@@ -1,0 +1,816 @@
+Uri: http://bicisport.es/
+File Name: c:\Downloaded Web Sites\bicisport.es\index.html
+Content Type: text/html
+
+Uri: http://bicisport.es/fonts/open-sans/stylesheet.css
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\stylesheet.css
+Content Type: text/css
+
+Uri: http://bicisport.es/fonts/icomoon/style.css
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\style.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/color-scheme.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\color-scheme.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/style.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\style.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/responsive.css?v=2282828
+File Name: c:\Downloaded Web Sites\bicisport.es\css\responsive.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/animate.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\animate.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/nouislider.fox.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\nouislider.fox.css
+Content Type: text/css
+
+Uri: http://bicisport.es/catalogo
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/rigidas/3
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\rigidas\3.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/dobles/1
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\dobles\1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/chicas/5
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\chicas\5.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/ninos  /4
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\ninos  \4.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/carretera/2
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\carretera\2.html
+Content Type: text/html
+
+Uri: http://bicisport.es/ofertas
+File Name: c:\Downloaded Web Sites\bicisport.es\ofertas.html
+Content Type: text/html
+
+Uri: http://bicisport.es/taller
+File Name: c:\Downloaded Web Sites\bicisport.es\taller.html
+Content Type: text/html
+
+Uri: http://bicisport.es/contacto
+File Name: c:\Downloaded Web Sites\bicisport.es\contacto.html
+Content Type: text/html
+
+Uri: http://bicisport.es/css/flexslider/flexslider.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: http://bicisport.es/css/flexslider/default.css
+File Name: c:\Downloaded Web Sites\bicisport.es\css\flexslider\default.css
+Content Type: text/css
+
+Uri: http://bicisport.es/producto/cannondale-scalpel-si-carbon-3-2017/1678
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-scalpel-si-carbon-3-2017\1678.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-habit-5-2017/1680
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-habit-5-2017\1680.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-scalpel-si-5-2017/1676
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-scalpel-si-5-2017\1676.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-scalpel-si-carbon-4-2017/1677
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-scalpel-si-carbon-4-2017\1677.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-trail-1-2017/1674
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-trail-1-2017\1674.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-talon-0-ltd-2017/1669
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-talon-0-ltd-2017\1669.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-trail-2/1670
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-trail-2\1670.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-f-si-carbon-4-2017/1671
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-f-si-carbon-4-2017\1671.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-tcr-slr-2-2017/1690
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-tcr-slr-2-2017\1690.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-domane-s5-2017/1687
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-domane-s5-2017\1687.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-tcr-advanced-1-2017/1688
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-tcr-advanced-1-2017\1688.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-synapse-hi-mod-ultegra-2017/1682
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-synapse-hi-mod-ultegra-2017\1682.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-temp-2-ltd/1618
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-temp-2-ltd\1618.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-slate-apex-2017/1685
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-slate-apex-2017\1685.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-emonda-sl6-pro-2017/1683
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-emonda-sl6-pro-2017\1683.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-f-si-carbon-2-2017/1672
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-f-si-carbon-2-2017\1672.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-x-caliber-9-2017/1667
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-x-caliber-9-2017\1667.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-trail-4-2017/1665
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-trail-4-2017\1665.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-marlin-5-2017/1664
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-marlin-5-2017\1664.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-marlin-7-2017/1663
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-marlin-7-2017\1663.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-x-caliber-8-2017/1662
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-x-caliber-8-2017\1662.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/cannondale-synapse-carbon-105/1654
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\cannondale-synapse-carbon-105\1654.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-talon-275-3-ltd/1644
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-talon-275-3-ltd\1644.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-talon-275-1/1643
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-talon-275-1\1643.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-fuel-ex-98-275/1637
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-fuel-ex-98-275\1637.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/trek-x-caliber-8/1604
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\trek-x-caliber-8\1604.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/giant-talon-275-2-ltd/1591
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\giant-talon-275-2-ltd\1591.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-elect-upgrade-kit/1562
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-elect-upgrade-kit\1562.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/trek/1
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\trek\1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/cannondale/2
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\cannondale\2.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/giant/3
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\giant\3.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/megamo/4
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\megamo\4.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/fox/5
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\fox\5.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/rock-shox/7
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\rock-shox\7.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/liv/9
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\liv\9.html
+Content Type: text/html
+
+Uri: http://bicisport.es/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/modernizr.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\modernizr.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/package.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\package.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/jquery.zoom-min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.zoom-min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/jquery.tweet.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.tweet.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/scripts.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\scripts.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/app.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\app.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/images/logo.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logo.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/letras_cabecera.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\letras_cabecera.png
+Content Type: image/png
+
+Uri: http://bicisport.es/js/jquery.flexslider.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.flexslider.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/images/slider/slider2.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\images\slider\slider2.jfif
+Content Type: image/jpeg
+
+Uri: http://bicisport.es/images/slider/slider3.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\images\slider\slider3.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/dobles/cannondale_habit_5_2017_green.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\dobles\cannondale_habit_5_2017_green.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/all mountain/cannondale_scalpel_5_2017_blue.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\all mountain\cannondale_scalpel_5_2017_blue.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/all mountain/cannondale_scalpel_4_2017_green.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\all mountain\cannondale_scalpel_4_2017_green.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis//cannondale_trail_1_2017_yellow.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\cannondale_trail_1_2017_yellow.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/giant_talon_0_2017.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\giant_talon_0_2017.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/cannondale_trail_2_2017.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\cannondale_trail_2_2017.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/cannondale_fsi_carbon_4_2017.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\cannondale_fsi_carbon_4_2017.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/carretera/giant_tcx_slr2_2017.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\giant_tcx_slr2_2017.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/trek_domane_s5_2017_blue_orange.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\trek_domane_s5_2017_blue_orange.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/giant_tcr_advanced_1_2017_black.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\giant_tcr_advanced_1_2017_black.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/cannondale_synapse_hi_mod_ultegra_green.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\cannondale_synapse_hi_mod_ultegra_green.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/chicas/Tempt-2-LTD.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\chicas\Tempt-2-LTD.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/cannondale_state_apex_2017.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\cannondale_state_apex_2017.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/trek_emonda_sl6_pro_2017_black.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\trek_emonda_sl6_pro_2017_black.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/cannondale_fsi_carbon_2_2017.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\cannondale_fsi_carbon_2_2017.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/trek_xcaliber_9_2017.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\trek_xcaliber_9_2017.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/cannondale_trail_4_2017_green.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\cannondale_trail_4_2017_green.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/marlin5_2017.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\marlin5_2017.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/marlin7_2017.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\marlin7_2017.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/xcaliber8_2017.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\xcaliber8_2017.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/carretera/synapse_carbon_105.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\carretera\synapse_carbon_105.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/Talon-3-LTD-darkblue-yellow.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\Talon-3-LTD-darkblue-yellow.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/Talon-275-1-White-Black.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\Talon-275-1-White-Black.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/all mountain/trek_fuel_ex_98_2015.png
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\all mountain\trek_fuel_ex_98_2015.png
+Content Type: image/png
+
+Uri: http://www.bicisport.es/bicis/rigidas/x-caliber_8.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\x-caliber_8.jfif
+Content Type: image/jpeg
+
+Uri: http://www.bicisport.es/bicis/rigidas/Talon-2-LTD-black-orange.jpg
+File Name: c:\Downloaded Web Sites\bicisport.es\bicis\rigidas\Talon-2-LTD-black-orange.jfif
+Content Type: image/jpeg
+
+Uri: http://bicisport.es/images/logos/logo_trek.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_trek.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_cannondale.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_cannondale.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_giant.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_giant.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_megamo.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_megamo.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_fox.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_fox.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_magura.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_magura.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_rock_shox.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_rock_shox.png
+Content Type: image/png
+
+Uri: http://bicisport.es/images/logos/logo_liv.png
+File Name: c:\Downloaded Web Sites\bicisport.es\images\logos\logo_liv.png
+Content Type: image/png
+
+Uri: http://bicisport.es/js/jquery.carouFredSel.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.carouFredSel.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/jquery.mixitup.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.mixitup.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/js/jquery.nouislider.min.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\jquery.nouislider.min.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/fonts/open-sans/light/OpenSans-Light-webfont.eot
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\light\OpenSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/fonts/open-sans/light/OpenSans-Light-webfont.woff
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\light\OpenSans-Light-webfont.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/light/OpenSans-Light-webfont.ttf
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\light\OpenSans-Light-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/light/OpenSans-Light-webfont.svg
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\light\OpenSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://bicisport.es/fonts/open-sans/regular/OpenSans-Regular-webfont.eot
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\regular\OpenSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/fonts/open-sans/regular/OpenSans-Regular-webfont.woff
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\regular\OpenSans-Regular-webfont.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/regular/OpenSans-Regular-webfont.ttf
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\regular\OpenSans-Regular-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/regular/OpenSans-Regular-webfont.svg
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\regular\OpenSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://bicisport.es/fonts/open-sans/semibold/OpenSans-Semibold-webfont.eot
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\semibold\OpenSans-Semibold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/fonts/open-sans/semibold/OpenSans-Semibold-webfont.woff
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\semibold\OpenSans-Semibold-webfont.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/semibold/OpenSans-Semibold-webfont.ttf
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\semibold\OpenSans-Semibold-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/semibold/OpenSans-Semibold-webfont.svg
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\semibold\OpenSans-Semibold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://bicisport.es/fonts/open-sans/bold/OpenSans-Bold-webfont.eot
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\bold\OpenSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/fonts/open-sans/bold/OpenSans-Bold-webfont.woff
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\bold\OpenSans-Bold-webfont.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/bold/OpenSans-Bold-webfont.ttf
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\bold\OpenSans-Bold-webfont-1.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/open-sans/bold/OpenSans-Bold-webfont.svg
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\open-sans\bold\OpenSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://bicisport.es/fonts/icomoon/fonts/icomoon.eot?vzkiq5
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/fonts/icomoon/fonts/icomoon.woff?vzkiq5
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\fonts\icomoon.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/icomoon/fonts/icomoon.ttf?vzkiq5
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\fonts\icomoon-1.txt
+Content Type: text/plain
+
+Uri: http://bicisport.es/fonts/icomoon/fonts/icomoon.svg?vzkiq5
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: http://bicisport.es/catalogo/ninos/4
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\ninos\4-1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=1
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=2
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-2.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=3
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-3.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=4
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-4.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=5
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-5.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=6
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-6.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=7
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-7.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo?p=8
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo-8.html
+Content Type: text/html
+
+Uri: http://bicisport.es/js/ddaccordion.js
+File Name: c:\Downloaded Web Sites\bicisport.es\js\ddaccordion.js
+Content Type: text/javascript
+
+Uri: http://bicisport.es/catalogo/rigidas/3?p=1
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\rigidas\3-1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/catalogo/rigidas/3?p=2
+File Name: c:\Downloaded Web Sites\bicisport.es\catalogo\rigidas\3-2.html
+Content Type: text/html
+
+Uri: http://bicisport.es/css/flexslider/images/bg_direction_nav.png
+File Name: c:\Downloaded Web Sites\bicisport.es\css\flexslider\images\bg_direction_nav.png
+Content Type: image/png
+
+Uri: http://bicisport.es/producto/magura-retenes-32/1552
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-retenes-32\1552.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-kit-juntas-toricas-ts8/1553
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-kit-juntas-toricas-ts8\1553.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-kit-adhesivos-ts/1554
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-kit-adhesivos-ts\1554.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-tornillo-botella-izquierda/1555
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-tornillo-botella-izquierda\1555.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-tornillo-rebote/1556
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-tornillo-rebote\1556.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-llave-torx-t25/1557
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-llave-torx-t25\1557.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-thru-axle-m15mm/1558
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-thru-axle-m15mm\1558.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-espaciadores-de-volumen/1560
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-espaciadores-de-volumen\1560.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-cartucho-de-bloqueo-manual/1564
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-cartucho-de-bloqueo-manual\1564.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-cartucho-de-bloqueo-remoto/1563
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-cartucho-de-bloqueo-remoto\1563.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-racord-m6/1559
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-racord-m6\1559.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6?p=1
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6-1.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6?p=2
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6-2.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6?p=3
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6-3.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6?p=4
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6-4.html
+Content Type: text/html
+
+Uri: http://bicisport.es/marca/magura/6?p=5
+File Name: c:\Downloaded Web Sites\bicisport.es\marca\magura\6-5.html
+Content Type: text/html
+
+Uri: http://bicisport.es/fonts/icomoon/fonts/icomoon.eot
+File Name: c:\Downloaded Web Sites\bicisport.es\fonts\icomoon\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://bicisport.es/producto/magura-pinza-mt8/1535
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt8\1535.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt8/1534
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt8\1534.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt7/1533
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt7\1533.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt7/1532
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt7\1532.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt6/1531
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt6\1531.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt5/1530
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt5\1530.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt5/1529
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt5\1529.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt4/1528
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt4\1528.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt4/1527
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt4\1527.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt2/1526
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt2\1526.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt2/1525
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt2\1525.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-hs33r/1524
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-hs33r\1524.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-service-kit/1521
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-service-kit\1521.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-royal-blood-100ml/1520
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-royal-blood-100ml\1520.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-royal-blood-250ml/1519
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-royal-blood-250ml\1519.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-royal-blood-1l/1518
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-royal-blood-1l\1518.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pastillas-hs-verdes/1517
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pastillas-hs-verdes\1517.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pastillas-hs-rojas/1516
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pastillas-hs-rojas\1516.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pastillas-hs-gris/1515
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pastillas-hs-gris\1515.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pastillas-hs-negras/1513
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pastillas-hs-negras\1513.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pastillas-mt-71/1512
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pastillas-mt-71\1512.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-leva-mt8/1511
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-leva-mt8\1511.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt4-negro/1500
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt4-negro\1500.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-latiguillo-mt4-6-8-blanco/1499
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-latiguillo-mt4-6-8-blanco\1499.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-latiguillo-mt4-6-8-negro/1498
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-latiguillo-mt4-6-8-negro\1498.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-latiguillo-0-negro/1497
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-latiguillo-0-negro\1497.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-oliva/1496
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-oliva\1496.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-insert/1495
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-insert\1495.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-disco-storm-sl/1494
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-disco-storm-sl\1494.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-adaptador-center-lock/1493
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-adaptador-center-lock\1493.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-abrazadera-remotemix/1492
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-abrazadera-remotemix\1492.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt8/1491
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt8\1491.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt6/1490
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt6\1490.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-pinza-mt4/1488
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-pinza-mt4\1488.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-leva-mt6/1486
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-leva-mt6\1486.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-leva-4-dedos/1485
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-leva-4-dedos\1485.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-leva-mt2-mt4-mts/1484
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-leva-mt2-mt4-mts\1484.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt8/1483
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt8\1483.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mts/1482
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mts\1482.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt6/1481
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt6\1481.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt4/1480
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt4\1480.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-abrazadera-negra-alu/1473
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-abrazadera-negra-alu\1473.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-abrazadera-plata-alu/1474
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-abrazadera-plata-alu\1474.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-abrazadera-carbono/1475
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-abrazadera-carbono\1475.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-abrazadera-shiftmix-sram/1476
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-abrazadera-shiftmix-sram\1476.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-tuerca-aluminio/1477
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-tuerca-aluminio\1477.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-tornillo-ebt/1478
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-tornillo-ebt\1478.html
+Content Type: text/html
+
+Uri: http://bicisport.es/producto/magura-maneta-mt2/1479
+File Name: c:\Downloaded Web Sites\bicisport.es\producto\magura-maneta-mt2\1479.html
+Content Type: text/html
+
